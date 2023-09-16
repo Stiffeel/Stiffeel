@@ -8,7 +8,7 @@
 <p align="center">This is me:</p>
 <p align="center">
   <samp>
-    <img src="[https://mmbiz.qpic.cn/mmbiz_gif/kEZDpicq4atiaHlvppHuocibvH7bgWOmZUu3ibtyGOzL1h9qDAHTSe5HT2N0dUpqTzBRMw8twntOfo3Ak3hh1ibiaVqA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1](https://i.postimg.cc/4xjv5wGj/ezgif-com-gif-maker.gif)" width="60px" align="center">
+    <img src="https://i.postimg.cc/4xjv5wGj/ezgif-com-gif-maker.gif" width="60px" align="center">
   </samp>
 </p>
 
