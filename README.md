@@ -8,7 +8,7 @@
 <p align="center">✨This is me:</p>
 <p align="center">
   <samp>
-    <img src="https://i.postimg.cc/4xjv5wGj/ezgif-com-gif-maker.gif" width="100px" align="center">
+    <img src="https://i.postimg.cc/4xjv5wGj/ezgif-com-gif-maker.gif" width="90px" align="center">
   </samp>
 </p>
 
