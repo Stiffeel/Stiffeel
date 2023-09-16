@@ -1,6 +1,6 @@
 <h2 align="center">
   <samp>
-    <font size="5">Hi there👋 I'm new here🌱</font>
+    <font size="5">Hi there👋 I'm Stiffeel🌱</font>
   </samp>
 </h2>
 <p align="center">
@@ -9,26 +9,8 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    🔭I am currently in my 3rd year of university,
-    <br>pursuing a bachelor's of Information Engineering.
-  </samp>
-</p>
+<p>This is me:</p>
 
-<p align="center">
-  <samp>
-    <img src="https://mmbiz.qpic.cn/mmbiz_gif/kEZDpicq4atjQQzCwp8fmHe73RaUa7bBOgv4WBg65bvicfktEJ9oedKkApTZHM2IlWEeRrQ8IZsO6nHvEWVbfAJA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1" width="220px" align="center">
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
-    💬Btw
-    <br>I'm learning and working on <b>STM32+wireless and HW design</b>.
-    <br>And I'm looking for someone who's also a beginner to learn together.
-  </samp>
-</p>
 <details align="center">
   <summary><b>📫How to reach me</b></summary>
         Email: PetraS_2003@outlook.com
