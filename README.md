@@ -16,7 +16,7 @@
   <summary><b>📫How to reach me</b></summary>
         Email: PetraS_2003@outlook.com
         <br>Instagram: <a href="https://www.instagram.com/petra_hy_/">Petra_HY_</a>
-        <br>Website: <a href="https://www.hyshi.xyz)">www.hyshi.xyz</a>  
+        <br>Website: <a href="https://www.hyshi.xyz">www.hyshi.xyz</a>  
             </ul>
 </details>
 
