@@ -1,6 +1,6 @@
-<h2 align="center">
+<p align="center">
     <font size="5">Hi there👋 I'm Stiffeel🌱</font>
-</h2>
+</p>
 
 
 <p align="center">✨This is me:</p>
