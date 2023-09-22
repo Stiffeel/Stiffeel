@@ -1,7 +1,5 @@
 <h2 align="center">
-  <samp>
     <font size="5">Hi there👋 I'm Stiffeel🌱</font>
-  </samp>
 </h2>
 
 
